@@ -11,7 +11,7 @@
         <form action="process.php">
         <div>
             <label>Tài khoản:</label>
-            <input type="text" id="user_name" name="user_name" placeholder="Nhap tai khoan" >
+            <input type="text" id="user_name" name="user_name" placeholder="Nhập tai khoan" >
         </div>
         <div>
             <label>Mật khẩu:</label>
