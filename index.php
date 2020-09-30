@@ -15,7 +15,7 @@
         </div>
         <div>
             <label>Mật khẩu:</label>
-            <input type="password" id="user_password" name="user_password" placeholder="Nhap mat khau">
+            <input type="password" id="user_password" name="user_password" placeholder="Nhập mật khẩu">
         </div>
         <div>
         <input type="submit" value="Đăng nhập">
