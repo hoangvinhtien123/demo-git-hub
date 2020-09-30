@@ -18,7 +18,7 @@
             <input type="password" id="user_password" name="user_password" placeholder="Nhap mat khau">
         </div>
         <div>
-        <input type="submit" value="Xac nhan">
+        <input type="submit" value="Đăng nhập">
         </div>
         </form>
     </body>
